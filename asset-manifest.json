@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.122b5cef.css",
-    "main.js": "/react-gh-pages/static/js/main.c383e0aa.js",
-    "static/js/453.9f5de2cd.chunk.js": "/react-gh-pages/static/js/453.9f5de2cd.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.122b5cef.css.map": "/react-gh-pages/static/css/main.122b5cef.css.map",
-    "main.c383e0aa.js.map": "/react-gh-pages/static/js/main.c383e0aa.js.map",
-    "453.9f5de2cd.chunk.js.map": "/react-gh-pages/static/js/453.9f5de2cd.chunk.js.map"
+    "main.css": "/Einkaufsliste/static/css/main.122b5cef.css",
+    "main.js": "/Einkaufsliste/static/js/main.3d98034e.js",
+    "static/js/453.9f5de2cd.chunk.js": "/Einkaufsliste/static/js/453.9f5de2cd.chunk.js",
+    "static/media/logo.svg": "/Einkaufsliste/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Einkaufsliste/index.html",
+    "main.122b5cef.css.map": "/Einkaufsliste/static/css/main.122b5cef.css.map",
+    "main.3d98034e.js.map": "/Einkaufsliste/static/js/main.3d98034e.js.map",
+    "453.9f5de2cd.chunk.js.map": "/Einkaufsliste/static/js/453.9f5de2cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.122b5cef.css",
-    "static/js/main.c383e0aa.js"
+    "static/js/main.3d98034e.js"
   ]
 }
